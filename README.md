@@ -212,7 +212,7 @@ int main() {
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/RASHWIN-SP-/RASHWIN-SP-/blob/output/github-snake-dark.svg)
 </div>
 
 
