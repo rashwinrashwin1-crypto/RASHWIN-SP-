@@ -215,7 +215,6 @@ int main() {
   ![snake gif](https://github.com/RASHWIN-SP-/RASHWIN-SP-/blob/output/github-snake-dark.svg)
 </div>
 
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rashwinsp&color=70a5fd&style=flat-square&label=Profile+Views)
