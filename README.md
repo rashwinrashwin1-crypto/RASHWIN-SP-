@@ -208,13 +208,21 @@ int main() {
 🔗 IoT & Embedded       → Real-time Systems, Sensor Integration, Peripheral Control
 ```
 
-<!-- Snake Animation -->
+---
+
+## 🐍 GitHub Contribution Snake
+
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/rashwinrashwin1-crypto/RASHWIN-SP-/output/github-snake-dark.svg" alt="GitHub Snake Animation">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rashwinrashwin1-crypto/RASHWIN-SP-/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rashwinrashwin1-crypto/RASHWIN-SP-/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rashwinrashwin1-crypto/RASHWIN-SP-/output/github-snake.svg">
+</picture>
 
 </div>
 
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rashwinsp&color=70a5fd&style=flat-square&label=Profile+Views)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-rashwinsp-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
